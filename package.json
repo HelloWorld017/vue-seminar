@@ -1,0 +1,33 @@
+{
+  "name": "vue-seminar",
+  "version": "1.0.0",
+  "description": "A small boilerplate for vue seminar",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelloWorld017/vue-seminar.git"
+  },
+  "keywords": [
+    "vue",
+    "boilerplate"
+  ],
+  "author": "Khinenw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HelloWorld017/vue-seminar/issues"
+  },
+  "homepage": "https://github.com/HelloWorld017/vue-seminar#readme",
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.1.1",
+    "parcel-bundler": "^1.12.4",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "dependencies": {
+    "vue": "^2.6.11",
+    "vue-hot-reload-api": "^2.3.4"
+  }
+}
